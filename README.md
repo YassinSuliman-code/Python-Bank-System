@@ -21,3 +21,6 @@ create accounts, log in, deposit, withdraw, transfer funds, and change passwords
 
 ## How to Run
 python project.py in the terminal window
+
+## How to Run Tests
+pytest test_project.py in the terminal window
